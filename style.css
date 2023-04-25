@@ -1,0 +1,6 @@
+html {
+  height: 100%;
+  width: 100%;
+}
+body{ background: green url("https://bit.ly/3h2VSOf";) 50% 50% no-repeat; height: 100vh }
+@media only screen and ( max-width: 600px ) { body{ background-color: blue; color: white; } }
